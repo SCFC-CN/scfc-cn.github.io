@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>S.C.F.C.の博客</title>
-  
+  <icon>https://q.qlogo.cn/g?b=qq&amp;nk=2907713872&amp;s=640</icon>
   <subtitle>山河虽无恙，吾辈当自强</subtitle>
   <link href="https://blog.scfc.top/rss.xml" rel="self"/>
   
   <link href="https://blog.scfc.top/"/>
-  <updated>2024-12-29T06:32:57.512Z</updated>
+  <updated>2025-01-04T07:52:21.663Z</updated>
   <id>https://blog.scfc.top/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【每日早报】-2025-01-04 - 星期六</title>
+    <link href="https://blog.scfc.top/2025/01/04/%E3%80%90%E6%AF%8F%E6%97%A5%E6%97%A9%E6%8A%A5%E3%80%91-2025-01-04%20-%20%E6%98%9F%E6%9C%9F%E5%85%AD/"/>
+    <id>https://blog.scfc.top/2025/01/04/%E3%80%90%E6%AF%8F%E6%97%A5%E6%97%A9%E6%8A%A5%E3%80%91-2025-01-04%20-%20%E6%98%9F%E6%9C%9F%E5%85%AD/</id>
+    <published>2025-01-03T16:00:00.000Z</published>
+    <updated>2025-01-04T07:52:21.663Z</updated>
+    
+    <content type="html"><![CDATA[<!DOCTYPE html><html lang="en"><head>    <meta charset="UTF-8">    <meta http-equiv="X-UA-Compatible" content="IE=edge">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>每日早报</title></head><body>    <div style="text-align: center;"> <img src="https://file.alapi.cn/60s/202501041735922702.png"            alt="每日早报" width="100%"> </div></body></html>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;
+    &lt;meta name</summary>
+      
+    
+    
+    
+    <category term="每日早报" scheme="https://blog.scfc.top/categories/%E6%AF%8F%E6%97%A5%E6%97%A9%E6%8A%A5/"/>
+    
+    
+    <category term="每日早报" scheme="https://blog.scfc.top/tags/%E6%AF%8F%E6%97%A5%E6%97%A9%E6%8A%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>无锡是2025春晚分会场之一</title>
