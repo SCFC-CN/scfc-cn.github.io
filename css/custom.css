@@ -148,3 +148,22 @@ h6::before {
   background-attachment: inherit;
   background-size: 100%;
 }
+
+/*-------------- 版权下面标签排列 ---------*/
+#post .tag_share .post-meta__tag-list {
+  display: flex;
+}
+#post .tag_share .post-meta__tags {
+  border: 1px solid var(--theme-color) !important;
+  color: var(--theme-color);
+  display: flex;
+  border-radius: 20px;
+}
+
+a:hover {
+  color: var(--theme-color);
+}
+#post .tag_share .post-meta__tags:hover {
+  background: var(--theme-color) !important;
+}
+/*-------- 版权下面标签排列end ---------*/
