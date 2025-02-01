@@ -4,7 +4,7 @@
   <url>
     <loc>https://blog.scfc.top/flink_count.json</loc>
     
-    <lastmod>2025-01-31</lastmod>
+    <lastmod>2025-02-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>https://blog.scfc.top/friend.json</loc>
     
-    <lastmod>2025-01-31</lastmod>
+    <lastmod>2025-02-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -270,6 +270,13 @@
   </url>
   
   <url>
+    <loc>https://blog.scfc.top/tags/vlog/</loc>
+    <lastmod>2025-02-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.scfc.top/tags/%E4%BA%91%E9%A9%B0%E4%BA%92%E8%81%94/</loc>
     <lastmod>2025-02-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -291,7 +298,14 @@
   </url>
   
   <url>
-    <loc>https://blog.scfc.top/tags/vlog/</loc>
+    <loc>https://blog.scfc.top/tags/Tag-Plugins/</loc>
+    <lastmod>2025-02-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.scfc.top/tags/Hexo/</loc>
     <lastmod>2025-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -312,21 +326,14 @@
   </url>
   
   <url>
-    <loc>https://blog.scfc.top/tags/Tag-Plugins/</loc>
-    <lastmod>2025-02-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.scfc.top/tags/Hexo/</loc>
-    <lastmod>2025-02-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.scfc.top/tags/%E6%98%A5%E6%99%9A/</loc>
+    <lastmod>2025-02-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.scfc.top/tags/%E7%88%B1%E5%8F%91%E7%94%B5/</loc>
     <lastmod>2025-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -341,13 +348,6 @@
   
   <url>
     <loc>https://blog.scfc.top/tags/%E8%B7%91%E9%9E%8B/</loc>
-    <lastmod>2025-02-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.scfc.top/tags/%E7%88%B1%E5%8F%91%E7%94%B5/</loc>
     <lastmod>2025-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
